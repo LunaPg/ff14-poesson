@@ -21,9 +21,18 @@ It's just ... you can't write unit test for those, right :D
 
 
 
+# Hacktoberfest
+You're here for the hacktober fest ??
+
+Check their awesome tutorial video !
+https://hacktoberfest.com/participation/
+
+If you don't like video, check their website !
+https://hacktoberfest.com/participation/
 
 
-Project generated from : 
+
+### Project generated from : 
 # electron-quick-start-typescript
 
 **Clone and run for a quick way to see Electron in action.**
