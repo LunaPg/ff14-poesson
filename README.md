@@ -1,3 +1,29 @@
+# ff14 Poesson
+
+Desktop application to check if the fish you want on FF14 is available !
+
+
+Will use this repo to get data : 
+
+Repo is WIP too !
+
+https://github.com/LunaPg/eorzea-alarm-fishing
+
+
+#Contributing !!
+
+To contribute for code, you need to have some tests running.
+
+If you want to contribute another way like setting up the project, create gihub template, or get some design approved feel free to PR too !!
+
+It's just ... you can't write unit test for those, right :D 
+
+
+
+
+
+
+Project generated from : 
 # electron-quick-start-typescript
 
 **Clone and run for a quick way to see Electron in action.**
